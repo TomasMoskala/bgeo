@@ -1,4 +1,5 @@
-# bgeoWARNING in C:\aa\TESTS\bgeo\src\test.ts is part of the TypeScript compilation but it's unused.
+Install and test 
+WARNING in C:\aa\TESTS\bgeo\src\test.ts is part of the TypeScript compilation but it's unused.
 Add only entry points to the 'files' or 'include' properties in your tsconfig.
 
 WARNING in C:\aa\TESTS\bgeo\src\environments\environment.prod.ts is part of the TypeScript compilation but it's unused.       
@@ -34,3 +35,5 @@ core.js:6228 ERROR Error: Uncaught (in promise): TypeError: Cannot read property
 TypeError: Cannot read property 'onLocation' of undefined
     at Function.push../node_modules/cordova-background-geolocation-lt/src/ionic/index.js.BackgroundGeolocation.onLocation (index.js:181)
     at HomePage.configureBackgroundGeolocation (home.page.ts:27)
+
+nothing on device
